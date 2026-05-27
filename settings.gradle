@@ -15,5 +15,5 @@ dependencyResolutionManagement {
         }
     }
 }
-rootProject.name = "CombinedDeviceDemo"
+rootProject.name = "IGM-DocumentReader"
 include ':app'
