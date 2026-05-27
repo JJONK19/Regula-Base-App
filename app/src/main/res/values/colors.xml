@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- IGM Brand Colors -->
+    <color name="igm_blue_dark">#19435F</color>
+    <color name="igm_blue_mid">#19516C</color>
+    <color name="igm_blue_teal">#1A5C75</color>
+    <color name="igm_teal">#1E7788</color>
+    <color name="igm_teal_light">#186B7F</color>
+
+    <!-- IGM Logo Colors -->
+    <color name="igm_logo_blue">#00384A</color>
+    <color name="igm_logo_green">#266041</color>
+    <color name="igm_logo_red">#AA182C</color>
+
+    <!-- IGM Background -->
+    <color name="igm_bg_light">#E8F4F6</color>
+
+    <!-- Semantic aliases for theme -->
+    <color name="igm_primary">@color/igm_blue_dark</color>
+    <color name="igm_primary_variant">@color/igm_blue_mid</color>
+    <color name="igm_secondary">@color/igm_teal</color>
+    <color name="igm_secondary_variant">@color/igm_blue_teal</color>
+    <color name="igm_accent">@color/igm_teal</color>
+    <color name="igm_surface">@color/igm_bg_light</color>
+
+    <!-- Basics -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
